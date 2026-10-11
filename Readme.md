@@ -178,7 +178,7 @@ The Power BI dashboard provides:
 # 📷 Dashboard Preview
 
 <p align="center">
-  <img src="CustomerChurnAnalytics/Screenshot/Screenshot 2026-10-11 160101.png"
+  <img src="Screenshot/Screenshot%202026-10-11%20160101.png"
        alt="Customer Churn Analytics Dashboard"
        width="900">
 </p>
